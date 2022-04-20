@@ -3,7 +3,7 @@
 > In this project we retrieve feeds related to videos, users, and playlists. We also can compare two or more YouTuber in different topics.
 
 ## requirements
-Refer to this link ![Build Status](https://developers.google.com/youtube/v3/getting-started)
+[Refer to this link](https://developers.google.com/youtube/v3/getting-started) for getting started
 
 - Need a Google Account
 - Creat a project in Google Developers Console
