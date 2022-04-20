@@ -15,12 +15,14 @@ Please note the Quota allocation is 10,000 units per day.
 - upload request costs 1000 units
  
 ##Installation
----bash
-- !pip install --upgrade google-api-python-client
----
+
+'''bash
+!pip install --upgrade google-api-python-client
+'''
 
 ##Libraries
----python
+
+'''python
 from googleapiclient.discovery import build
 from dateutil import parser
 import pandas as pd
@@ -39,5 +41,5 @@ from nltk.tokenize import word_tokenize
 nltk.download('stopwords')
 nltk.download('punkt')
 from wordcloud import WordCloud
----
+'''
 
