@@ -1,6 +1,5 @@
 # YouTube-API
-> The process of retrieving video data and channel data using YouTube Data API
-> In this project we retrieve feeds related to videos, users, and playlists. We also can compare two or more YouTuber in different topics.
+> In this project we retrieve feeds related to videos, users, and playlists. We also can compare two or more YouTuber in various aspects such as number of number od > reviews, likes, video duration and so on.
 
 ## requirements
 [Refer to this link](https://developers.google.com/youtube/v3/getting-started) for getting started
